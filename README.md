@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">If I'm not using my work GH account, all my work here may be private.<br>Portfolio on GitHub? Pues no, mi ciela.</p>
+<p align="center">If I'm not using my work GH account, all my (not open-source) work here may be private.<br>Portfolio on GitHub? Pues no, mi ciela.</p>
 
 ###
 
